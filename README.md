@@ -3,7 +3,7 @@ The eShopVista project aims to create an innovative online shopping and vending 
 
 # Team Members:
 Muhammad Rehan - 614653
-Nathanael Argaw - 646428
+Nathanael Argaw - 616428
 Thomas Mechessa - 616427
 
 # Vision Document
