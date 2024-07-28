@@ -8,3 +8,7 @@ Thomas Mechessa - 616427
 
 # Vision Document
 https://docs.google.com/document/d/1U6sZIBqAnd613uNiN4uovTmkOXTEVFMh9AwdOBZHeh8/edit?usp=sharing
+
+System Architecture Design
+
+![SWE EshopVista](https://github.com/user-attachments/assets/fc480a72-2893-4c25-9a87-ad7232bc9027)
