@@ -1,13 +1,13 @@
 {
-  "name": "eshopper_finalproject",
+  "name": "eshopvista",
   "version": "1.0.0",
-  "description": "eShopper",
+  "description": "eShopVista",
   "main": "app.js",
   "type": "module",
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Hassan Raza",
+  "author": "Muhammad Rehan",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",

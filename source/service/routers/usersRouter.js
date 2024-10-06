@@ -3,7 +3,7 @@ import { login, signup, getAll, deleteById, getById } from '../controllers/users
 import itemsRoute from './itemsRouter.js'
 import profileRouter from './profileRouter.js'
 import checkToken from '../middlewares/checkToken.js';
-import imageRouter from './imagesRouter.js';
+import picturesRouter from './picturesRouter.js';
 
 const router = Router();
 
@@ -17,7 +17,7 @@ router.delete('/:user_id', deleteById)
 
 router.use('/:user_id/items', checkToken, itemsRoute);
 router.use('/:user_id/profile', checkToken, profileRouter);
-router.use('/:user_id/images', imageRouter);
+router.use('/:user_id/images', picturesRouter);
 
 
 export default router;
